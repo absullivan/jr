@@ -18,9 +18,7 @@ var jr = {
 	],
 	scripts : [
 		'js/showdown.js',
-		'js/prettify.js',
-		'//togetherjs.com/togetherjs-min.js'
-		'//cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js'
+		'js/prettify.js'
 		// if you want jQuery or some other library for a plugin
 		// '//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'
 	],
